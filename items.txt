@@ -1,0 +1,12 @@
+Name                       | Barcode   | Category    | Price   | StockQty | Description                         | Supplier           | HSX        | HSD        | Unit 
+Nuoc ngot Coca Cola 330ml  | 123456789 | Do uong     | 12000   | 500      | Nuoc giai khat Coca Cola          | Coca Cola          | 31-12-2024 | 31-12-2025 | Chai 
+Gao ST25                   | 987654321 | Thuc pham   | 150000  | 300      | Gao thom chat luong cao           | LTT Tien Giang     | 31-12-2023 | 31-12-2024 | Kg   
+Banh mi Sandwich           | 192837465 | Do an       | 15000   | 200      | Banh mi tuoi, thom ngon           | Bakery Hoa Hong    | 15-05-2024 | 20-05-2024 | Cai  
+Sua tuoi Vinamilk 1L       | 564738291 | Do uong     | 22000   | 1000     | Sua tuoi tiet trung Vinamilk      | Vinamilk           | 15-03-2024 | 15-06-2024 | Lit  
+Snack Oishi khoai tay      | 102938475 | Do an vat   | 15000   | 250      | Snack khoai tay vi gion           | Oishi              | 10-03-2024 | 10-09-2024 | Goi  
+Banh quy Oreo 133g         | 564839201 | Do an vat   | 30000   | 180      | Banh quy Oreo ngon, hap dan       | Mondelez Kinh Do   | 20-06-2024 | 20-12-2024 | Goi  
+Nuoc cam Tropicana 1L      | 112233445 | Do uong     | 28000   | 400      | Nuoc ep cam tuoi ngon             | Tropicana          | 15-02-2024 | 15-08-2024 | Lit  
+Nuoc tra Thai Nguyen 500ml | 998877665 | Do uong     | 15000   | 350      | Nuoc tra Thai Nguyen chinh hang   | Tra Thai Nguyen    | 10-04-2024 | 10-10-2024 | Chai 
+Kem Wall's 120ml           | 667788990 | Do an vat   | 25000   | 150      | Kem tuoi ngon Wall's              | Unilever           | 30-03-2024 | 30-09-2024 | Cay  
+Dau an Thuan Phat 1L       | 334455667 | Thuc pham   | 35000   | 200      | Dau an thuan phat loai tot        | Thuan Phat         | 10-01-2024 | 10-01-2025 | Lit  
+Nuoc ngot Coca Cola 330ml  | 1 | Do uong     | 12000   | 500      | Nuoc giai khat Coca Cola          | Coca Cola          | 31-12-2024 | 31-12-2025 | Chai
